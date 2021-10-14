@@ -60,7 +60,7 @@ public class C04_SoftAssert {
 
     @AfterClass
     public void tearDown() {
-        driver.close();
+      //  driver.close();
     }
 
 }
